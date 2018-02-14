@@ -9,3 +9,8 @@ h1 {
   font-size: 50px;
   font-weight: bold;
 }
+
+.download {
+  font-size: 16px;
+  color: aquamarine;
+}
